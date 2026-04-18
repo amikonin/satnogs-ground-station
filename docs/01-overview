@@ -1,0 +1,34 @@
+# Overview
+
+## Project Goal
+
+This project documents the design, assembly, setup, and operation of our SatNOGS ground station.
+
+The station is intended to:
+- track satellites automatically
+- receive satellite telemetry (TLE, Earth imagery, meteorological/atmospheric data)
+- support educational and research activities
+- provide a reproducible setup for future work
+
+## System Summary
+
+At a high level, the station works as follows:
+
+Satellite signal  
+→ antenna  
+→ RF chain  
+→ SDR  
+→ Raspberry Pi running SatNOGS software
+
+The rotator allows the antenna to follow the satellite across the sky in azimuth and elevation.
+
+## Scope of This Repository
+
+This repository covers:
+- hardware used in the station
+- software installation
+- SatNOGS setup and configuration
+- rotator setup
+- RF chain
+- testing and first observations
+- troubleshooting and maintenance
