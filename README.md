@@ -13,6 +13,7 @@ The goal of this project is to build, configure, and operate a SatNOGS ground st
 - SatNOGS Rotator
 - SDR
 - LNA
+- RF splitter/combiner
 - Cross-Yagi antenna
 - Coaxial RF chain
 
