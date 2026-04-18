@@ -8,14 +8,14 @@ The goal of this project is to build, configure, and operate a SatNOGS ground st
 
 ## Current Setup
 
-- Raspberry Pi 5
-- SatNOGS Client / Controller
+- Raspberry Pi 4
+- SatNOGS ground station + HamLib 
 - SatNOGS Rotator
-- SDR
+- RTL-SDR V4
 - LNA
 - RF splitter/combiner
 - Cross-Yagi antenna
-- Coaxial RF chain
+- Coaxial RF chain (double shielded) + ferites chokes
 
 ## Repository Structure
 
